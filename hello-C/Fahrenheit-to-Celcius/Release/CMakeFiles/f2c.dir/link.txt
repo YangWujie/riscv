@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/f2c.dir/f2c.c.o -o f2c 

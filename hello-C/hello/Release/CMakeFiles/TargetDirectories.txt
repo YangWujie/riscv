@@ -1,0 +1,3 @@
+/workspaces/riscv/hello-C/hello/Release/CMakeFiles/hello.dir
+/workspaces/riscv/hello-C/hello/Release/CMakeFiles/edit_cache.dir
+/workspaces/riscv/hello-C/hello/Release/CMakeFiles/rebuild_cache.dir
